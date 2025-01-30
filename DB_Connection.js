@@ -1,5 +1,5 @@
 const mongoose=require("mongoose");
-const URI="mongodb+srv://sanketgautaam461:sanketgautam0@chatapp.6hk7nha.mongodb.net/?retryWrites=true&w=majority&appName=ChatApp";
+const URI="";
 
 
 async function DBConnection(){
